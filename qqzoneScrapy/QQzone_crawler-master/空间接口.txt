@@ -1,0 +1,5 @@
+﻿#获取qq好友的头像
+http://q1.qlogo.cn/g?b=qq&nk=1550334365&s=140&t=961118830
+
+#添加好友
+http://id.qq.com/af/af.html?appid=10021&lang=2052&t=1370251908455&u=QQ号&ut=undefined

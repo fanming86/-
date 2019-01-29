@@ -1,0 +1,57 @@
+friendextend.txt
+
+=======================================================================================================================
+我的好友
+https://h5.qzone.qq.com/proxy/domain/base.qzone.qq.com/cgi-bin/right/get_entryuinlist.cgi?uin=961118830&fupdate=1&action=1&offset=50&g_tk=149234932&qzonetoken=6135963a7678a8421acb32c535b0ba9032b870412be42e1685846fc180ed7a73c4c8586b123990f0f8ea
+
+https://h5.qzone.qq.com/proxy/domain/base.qzone.qq.com/cgi-bin/right/get_entryright.cgi?
+uin=961118830
+&rd=0.6855565511287716
+&ver=1
+&fupdate=1
+&g_tk=353554300
+&qzonetoken=35091d7d79cc5866fd9d0564d376ac9b1e26d2759a3e04b3ef14d85d6c5226b813d835de0c3c77bb3e1b
+
+=======================================================================================================================
+
+friend_extend.cgi		好友网联系人
+
+=======================================================================================================================
+
+qqgroupfriend_groupinfo.cgi		qq群好友
+https://user.qzone.qq.com/proxy/domain/r.qzone.qq.com/cgi-bin/tfriend/qqgroupfriend_groupinfo.cgi?uin=961118830&gid=467296333&fupdate=1&type=1&g_tk=631950687&qzonetoken=5d0c24bbc3a3bb85a1e40d8418ec123e1e4b64d01cf5483da74e7f2c8a40ce6de4852037ff5d75d4&g_tk=631950687
+
+https://user.qzone.qq.com/proxy/domain/r.qzone.qq.com/cgi-bin/tfriend/qqgroupfriend_groupinfo.cgi?
+uin=961118830&gid=467296333&fupdate=1&type=1&g_tk=631950687&g_tk=631950687
+
+https://user.qzone.qq.com/proxy/domain/r.qzone.qq.com/cgi-bin/tfriend/qqgroupfriend_groupinfo.cgi?
+uin=961118830
+&gid=467296333
+&fupdate=1
+&type=1
+&g_tk=353554300
+&qzonetoken=8d5965dd04948063c69c3099a8ee7c5320f3cbef2e2ef0198812b0972c6d159d19b1baebecb1b577dee6
+&g_tk=353554300
+
+
+=======================================================================================================================
+
+friend_ship			好友亲密度		
+https://user.qzone.qq.com/proxy/domain/r.qzone.qq.com/cgi-bin/tfriend/friend_ship_manager.cgi?
+uin=961118830&do=1
+&rd=0.4403261974670638
+&fupdate=1
+&clean=1
+&g_tk=353554300&
+qzonetoken=8d5965dd04948063c69c3099a8ee7c5320f3cbef2e2ef0198812b0972c6d159d19b1baebecb1b577dee6&g_tk=353554300
+
+-------
+clean	1
+do	1
+fupdate	1
+g_tk	149234932
+qzonetoken	1a99242f76bb12e403c52baac496ae2c20e3bb12ac545ac0f450d5729408ffc3dc8a7d5d6513ffe3
+rd	0.3521188662049446
+uin	961118830
+
+=======================================================================================================================
